@@ -1,3 +1,6 @@
 [submodule "Taromati2"]
 	url = git@github.com:Taromati2/ghost-in-the-shell.git
 	path = Taromati2
+[submodule "other"]
+	url = git@github.com:Taromati2/other.git
+	path = other
