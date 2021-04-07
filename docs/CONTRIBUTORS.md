@@ -30,4 +30,5 @@ Taromati2中文化：[时原砂]( https://blog.yam.com/masenoyoi )&[TanisElf]( h
 [时原砂]( https://blog.yam.com/masenoyoi )  （Database 存取等，伪春菜Wiki主力之一）  
 [朔№九尾]( http://tieba.baidu.com/home/main?un=%E6%9C%94%E2%84%96%E4%B9%9D%E5%B0%BE&fr=home&id=tb.1.b25585fe.Tgg-2h0_3W6WGEeoM8GKZg )  （猜拳等）  
 [約束之地]( http://cuc.moe.hm/space.php?uid=3763 )  （进寝室功能的作者，三天内一人手搓5.13KB是真的NB）  
+[小万]( http://cuc.moe.hm/space.php?uid=2880 )  （游乐园剧本、部分对话等）  
 

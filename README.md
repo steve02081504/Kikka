@@ -27,14 +27,14 @@ Taromati2
 对于伪春菜使用者，[点击这里下载轻型nar]( https://github.com/Taromati2/Taromati2/releases/download/ghost/Taromati2.7z )  
 对于第一次接触伪春菜的人，[点击这里下载初心者包]( https://github.com/Taromati2/Taromati2/releases/download/ghost/StarterPack.7z )  
   
-注意：下载下来后需要在线更新，如果你网不好请参阅[初次启动更新]( ./md/points_for_attention.md#%E4%B8%80%E5%88%9D%E6%AC%A1%E5%90%AF%E5%8A%A8%E6%9B%B4%E6%96%B0 )  
+注意：下载下来后需要在线更新，如果你网不好请参阅[初次启动更新]( ./docs/points_for_attention.md#%E4%B8%80%E5%88%9D%E6%AC%A1%E5%90%AF%E5%8A%A8%E6%9B%B4%E6%96%B0 )  
 使用方法：  
 对于初心者，在解压并运行了ssp后，你可以看到你的ssp自带人格ssper  
 这时将初心者包中的nar拖给它，它便会自动帮你安装Taromati2  
 随后你需要右键ssper，将人格切换为Taromati2  
 便可以开始使用了  
 
-### [注意事项]( ./md/points_for_attention.md )  
+### [注意事项]( ./docs/points_for_attention.md )  
 请点击上方标题  
 
 ### bug反馈  
@@ -66,7 +66,7 @@ tox/email/oicq渠道优先
 在任何情况下，无论是在合同诉讼、侵权诉讼或其他诉讼中，任何开发参与者均不承担因本人格任何部分或本人格的任何部分的使用或其他交易而产生、引起或与之相关的任何索赔、损害或其他责任  
 开发者有权在不告知您的前提下对免责声明进行更改，届时，若您继续直接或间接使用本人格的任何部分，则视为您了解并同意新的免责声明条款  
 
-### [贡献者名单]( CONTRIBUTORS.md )  
+### [贡献者名单]( ./docs/CONTRIBUTORS.md )  
 已经难以考证究竟有多少人为了此人格付出努力  
 这里只列出了能够找到的人——  
 当然，就算能够找到网址，也不一定打得开  
@@ -74,24 +74,24 @@ tox/email/oicq渠道优先
 ### 我该如何参与开发？  
 即使对伪春菜一无所知也可以参与Taromati2的开发  
 并且在这个过程中，您将会逐步学习到如何制作一个自己的人格  
-[这里]( ./md/entry_guidance.md )有对伪春菜创作与修改的入门引导  
-[这里]( ./md/advanced_skills.md )则是进阶小技巧的总结  
+[这里]( ./docs/entry_guidance.md )有对伪春菜创作与修改的入门引导  
+[这里]( ./docs/advanced_skills.md )则是进阶小技巧的总结  
   
 [修改你的副本]( https://github.com/Taromati2/Taromati2/fork )并[向此项目提交PR]( https://github.com/Taromati2/Taromati2/compare )
 以参与其中（[github帮助页面]( https://help.github.com/cn )）  
-或者来[help wanted]( ./md/help_wanted.md )部分解决高优先级或我暂时没时间解决的问题！  
+或者来[help wanted]( ./docs/help_wanted.md )部分解决高优先级或我暂时没时间解决的问题！  
 不论以何种方式参与，[贡献者名单]( CONTRIBUTORS.md )上都会留下你的名字/ID（你也可以要求匿名）  
 （当然，对于被拒绝的PR，我会给出拒绝的理由，如果你足够努力，即使是被拒绝也不影响你的名字/ID进入名单——并附上你的分支版本链接）  
 
 ### 未安装的shell  
 有一些shell被我独立了出来，因为它们具有瑕疵或与Taromati2风格不符  
 我将它们按照风格进行了打包  
-如果你想要尝试它们，请前往[此页面]( ./md/not_installed_shells.md )并自行下载安装  
+如果你想要尝试它们，请前往[此页面]( ./docs/not_installed_shells.md )并自行下载安装  
 
-### [Taromati发展史]( ./md/history_of_Taromati.md )  
+### [Taromati发展史]( ./docs/history_of_Taromati.md )  
 请点击上方标题  
 
-### [常见疑难解答]( ./md/Q&A.md )  
+### [常见疑难解答]( ./docs/Q&A.md )  
 请点击上方标题  
 
 ### 交流群  
