@@ -86,7 +86,7 @@ tox/email/oicq渠道优先
 ### 未安装的shell  
 有一些shell被我独立了出来，因为它们具有瑕疵或与Taromati2风格不符  
 我将它们按照风格进行了打包  
-如果你想要尝试它们，请前往[此页面]( ./docs/not_installed_shells.md )并自行下载安装  
+如果你想要尝试它们，请前往[此页面]( https://github.com/Taromati2/Taromati2/releases/tag/not_installed_shells )并自行下载安装  
 
 ### [Taromati发展史]( ./docs/history_of_Taromati.md )  
 请点击上方标题  
