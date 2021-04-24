@@ -15,7 +15,7 @@
 
 ### 关于Taromati2  
 所用SHIORI：[yaya]( https://github.com/ponapalt/yaya-shiori )  
-dic格式规范：经过dicforma格式化即可  
+dic格式规范：经过[dicforma]( https://github.com/Taromati2/Taromati2/blob/master/docs/entry_guidance.md#%E5%BC%80%E5%8F%91%E7%94%A8%E6%9C%BA%E8%83%BD )格式化即可  
 所用图片规范：经过[pnggauntlet]( https://pnggauntlet.com/ )压缩即可  
 md文档规范：能读即可  
 bat、c工具格式规范：能跑即可  
@@ -28,11 +28,11 @@ Taromati2有很多开发用机能来辅助人格开发
    通过双击菜单->设置页->帮助->打开master目录来快速浏览ghost的shiori内容  
  - 开发用快捷键  
    Taromati2中开发用的快捷键见下：
-   * F4	shell重新载入  
-   * F5	shiori重新载入  
-   * F6	Ontest函式执行  
+   * `F4`	shell重新载入  
+   * `F5`	shiori重新载入  
+   * `F6`	Ontest函式执行  
      无检查的执行在`dic/system/base.dic`中定义的Ontest函式并将结果作樱语执行  
-   * F7	表达式执行  
+   * `F7`	表达式执行  
      执行任何可能的aya表达式并将结果回显出来并询问处理方式  
    详情见双击菜单->设置页->帮助->关于快捷键  
  - dicforma  
