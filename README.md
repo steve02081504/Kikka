@@ -18,7 +18,7 @@
 
 ### 绍介  
 Taromati2  
-![简介图]( .github/repository-open-graph.png )  
+![简介图加载中]( .github/repository-open-graph.png )  
 这是一款私人配布的伪春菜人格，包含角色kikka与towa  
 原作者是'[8]( http://unvollendet.web.fc2.com/ )'，此配布属于在他人再创作基础上的再创作  
 中间经历过无数人之手  
@@ -77,7 +77,7 @@ tox/email/oicq渠道优先
 [这里]( ./docs/entry_guidance.md )有对伪春菜创作与修改的入门引导  
 [这里]( ./docs/advanced_skills.md )则是进阶小技巧的总结  
   
-[修改你的副本]( https://github.com/Taromati2/Taromati2/fork )并[向此项目提交PR]( https://github.com/Taromati2/Taromati2/compare )
+[修改你的副本]( ./docs/fork.md )并[向此项目提交PR]( https://docs.github.com/cn/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork )
 以参与其中（[github帮助页面]( https://help.github.com/cn )）  
 或者来[help wanted]( ./docs/help_wanted.md )部分解决高优先级或我暂时没时间解决的问题！  
 不论以何种方式参与，[贡献者名单]( CONTRIBUTORS.md )上都会留下你的名字/ID（你也可以要求匿名）  
@@ -95,7 +95,7 @@ tox/email/oicq渠道优先
 请点击上方标题  
 
 ### 交流群  
-OICQ/QQ：[46245724]( https://qm.qq.com/cgi-bin/qm/qr?k=bjKb6eHiQ8FOMpR5z2TgB3m-1ba7cj-E )  
+OICQ/QQ：[717638871]( https://qm.qq.com/cgi-bin/qm/qr?k=cy0U6um422yufD7wgOlShSWGgcLxNHAk )  
 
 ### [关于我]( https://steve02081504.github.io/about )  
 请点击上方标题  

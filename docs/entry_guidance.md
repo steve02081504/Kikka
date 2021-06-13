@@ -35,6 +35,7 @@ Taromati2有很多开发用机能来辅助人格开发
      无检查的执行在`dic/system/base.dic`中定义的Ontest函式并将结果作樱语执行  
    * `F7`	表达式执行  
      执行任何可能的aya表达式并将结果回显出来并询问处理方式  
+     如果你的kikka不是快启版而是完整版，那么开启的不是表达式输入框而是[ghost_terminal]( https://github.com/steve02081504/ghost_terminal )  
    * `F8`	打开master目录  
 
    详情见双击菜单->设置页->帮助->关于快捷键  

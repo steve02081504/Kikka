@@ -18,7 +18,7 @@
 请自行确保你在更新时访问的是internet而不是countrynet  
 谢谢  
 第二种可能，你使用的ssp版本在线更新时容易出错  
-请进入[ssp官网](http://ssp.shillest.net/)下载最新版ssp与中文包（若需要）  
+请进入[ssp官网]( http://ssp.shillest.net/ )下载最新版ssp与中文包  
 
 ### 如何使kikka保持最上层显示？  
 可以通过`右键->选项->保持最上层显示`的方式  
