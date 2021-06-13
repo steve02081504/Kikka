@@ -4,6 +4,6 @@
 
 ## 其他  
 因为Taromati的shell异常的多（现今还时有追加），所以你可能需要耐心等会  
-不如来看看[常见问题]( ../Q&A.md )？
+不如来看看[常见问题]( ../Q&A.md )？  
 如果更新失败，你可能需要[这个]( https://github.com/Taromati2/Taromati2/blob/master/docs/points_for_attention.md#%E4%B8%80%E5%88%9D%E6%AC%A1%E5%90%AF%E5%8A%A8%E6%9B%B4%E6%96%B0 )  
 
