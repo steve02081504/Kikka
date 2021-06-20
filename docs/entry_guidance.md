@@ -44,6 +44,7 @@ Taromati2有很多开发用机能来辅助人格开发
    这个功能有出错的可能，无论如何我仍然建议做好数据备份或通过git等版本控制系统进行全人格的文件管理  
  - 辞书加/解密  
    将任何dic/ayc文件拖拽给Taromati2：如同使用[umeici]( http://umeici.onjn.jp/ )的[辞書の暗号化プログラム]( http://umeici.onjn.jp/files/aycencode1.zip )一般对任意的辞书进行加密  
+   ayc_coder对非aya的SHIORI辞书也是支持的！里々、華和梨、甚至美坂辞书均可加/解密  
    解密需要额外的条件以解锁这一功能，敬请摸索触发条件吧。
  - 文本拖拽  
    将任何文本选中并拖拽给Taromati2！  
